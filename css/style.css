@@ -21,8 +21,8 @@
 }
 
 .botao {
-  width: 100px;
-  height: 70px;
+  width: 60px;
+  height: 40px;
   font-size: 25px;
   cursor: pointer;
   background-color: rgb(31, 31, 31);
@@ -37,7 +37,7 @@
 
 #resultado {
   background-color: #fff;
-  width: 407px;
+  width: 247px;
   height: 50px;
   margin: 5px;
   margin-top: 10px;
